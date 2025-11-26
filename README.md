@@ -8,7 +8,7 @@
 **Stack**: Python + Django + DRF + SQlite + React + TailwindCSS + Axios + TypeScript
 **Escopo**: Site completo para criação e listagem de produtos.
 
-## Requisitos Essenciais (Timebox 6h)
+## Requisitos Essenciais (Timebox 4h)
 
 #### Backend
 
