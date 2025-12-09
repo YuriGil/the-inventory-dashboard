@@ -144,5 +144,3 @@ O projeto já possui `Dockerfile` no backend e no frontend, e um `docker-compose
 ## Considerações Finais
 
 O projeto apresenta uma arquitetura simples e bem organizada, capaz de servir tanto como prova técnica quanto como base para um sistema real de inventário. O fluxo de criação, listagem e remoção está funcionando de ponta a ponta, e a separação entre backend e frontend permite evolução independente das camadas.
-
-Se quiser, posso gerar também um **README-CANDIDATO.md** seguindo exatamente o modelo solicitado no documento original.
