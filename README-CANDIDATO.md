@@ -1,5 +1,4 @@
-Aqui está a versão reescrita de forma bem natural, simples e direta — como alguém realmente escreveria ao documentar seu próprio projeto.
-Sem formalidade excessiva e sem linguagem de IA.
+
 
 ---
 
